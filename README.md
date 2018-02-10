@@ -23,7 +23,3 @@ Statistic pages for web service
 ### Who do I talk to? ###
 
 * Wemakesoft
-
-# login $
-### login: sobaka ###
-### pass: sobaka ###
